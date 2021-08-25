@@ -1,0 +1,6 @@
+resources:
+  - name: MB_G_6256_0001_resource
+    type: PropertyBag
+    configuration:
+      sourceArtifactory: s_artifactory
+      buildName: mvn_sample_build_auto
