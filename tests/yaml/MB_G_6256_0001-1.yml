@@ -1,5 +1,5 @@
 resources:
-  - name: r_BuildInfo
+  - name: MB_G_6256_0001_resource
     type: BuildInfo
     configuration:
       sourceArtifactory: s_artifactory
